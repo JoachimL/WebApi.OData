@@ -72,4 +72,5 @@ c:\projects\WebApi.OData\WebApi.OData\bin\MiniProfiler.EntityFramework.dll
 c:\projects\WebApi.OData\WebApi.OData\bin\MiniProfiler.pdb
 c:\projects\WebApi.OData\WebApi.OData\bin\MiniProfiler.xml
 c:\projects\WebApi.OData\WebApi.OData\bin\MiniProfiler.EntityFramework.pdb
-c:\projects\WebApi.OData\WebApi.OData\bin\AutoMapper.pdb
+c:\projects\WebApi.OData\WebApi.OData\bin\AutoMapper.dll
+c:\projects\WebApi.OData\WebApi.OData\bin\AutoMapper.Net4.dll
